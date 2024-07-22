@@ -1,0 +1,23 @@
+%%MatrixMarket matrix coordinate pattern general
+% matrice di prova minima
+% contiene alcuni self loop e archi ripetuti 
+9 9 19
+5 6
+6 6
+6 3
+9 2
+2 9
+2 2
+1 2
+1 1
+2 3
+3 3
+5 5
+5 6
+6 6
+6 3
+3 4
+6 4
+4 6
+2 7
+3 8
